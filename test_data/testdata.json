@@ -1,0 +1,27 @@
+{
+    "loginurl": "https://pitchflow.evalueserve.com/cs",
+    "username": "cs_user@mypresentation.space", 
+    "password": "!evalu3",
+    "name":"auto",
+    "searchname":"temp",
+    "searchcontent" : "con",
+    "newname": "Rohit test archived13",
+    "newproject": "content clonnedd1",
+    "newproject_content": "content clonnedd1",
+    "newproject_template": "template clonnedd1",
+    "clientname" : "EVS",
+    "MDname" : "MDname",
+    "formpage1": "test1",
+    "formpage2": "test2",
+    "urllink": "project/details",
+    "pagetitle": "Pitchflow",
+    "Urllink1": "project/presentation/",
+    "Urllink2": "/projects/1",
+    "Urllink3": "/projects/2",
+    "fileToUpload": "C:\\Users\\Admin\\source\\repos\\Pitchflow-Dev2\\Evalueserve.Pitchflow.Frontend\\pitchflow\\e2e\\test_data\\test.pptx",
+    "pagenumber": "2",
+    "Researchname":"test",
+    "Urllink4": "project/research",
+    "searchname1": "xyz"
+
+}
